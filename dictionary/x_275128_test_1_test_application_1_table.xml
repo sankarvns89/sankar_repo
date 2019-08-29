@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Test application 1 Table" max_length="40" name="x_275128_test_1_test_application_1_table" type="collection"/>
+</database>
